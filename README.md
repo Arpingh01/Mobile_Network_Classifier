@@ -61,15 +61,15 @@ The project consists of multiple scripts that scrape data from various sources, 
 2. **Run individual scripts for network classification:**
    - For Jio:
      ```bash
-     python script3_jio.py
+     python Jio_Prepaid_Postpaid.py
      ```
    - For Vi:
      ```bash
-     python script3_vi.py
+     python Vi_Prepaid_Postpaid.py
      ```
    - For Airtel:
      ```bash
-     python script3_airtel.py
+     python Airtel_Prepaid_Postpaid.py
      ```
 
 3. **Run `Combinational_(AJV)_Prepaid_Postpaid.py` for complete classification:**
