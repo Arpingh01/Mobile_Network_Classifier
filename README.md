@@ -74,7 +74,7 @@ The project consists of multiple scripts that scrape data from various sources, 
 
 3. **Run `Combinational_(AJV)_Prepaid_Postpaid.py` for complete classification:**
    ```bash
-   python combinational_script.py
+   python Combinational_(AJV)_Prepaid_Postpaid.py
    ```
 
 ## Output
